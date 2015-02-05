@@ -6,4 +6,3 @@
 2. 拷贝solr_home到任意目录，如：/home目录下。
 3. 修改solr目录中的web.xml，配置solr_home的路径为:/home/solr_home。
 4. 启动web服务器，访问:http://localhost:8080/solr即可看到solr后台页面。
-
